@@ -1,0 +1,16 @@
+yarn create vite
+
+Configure ESLINT
+
+Link: https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b
+
+npm i eslint -D
+
+npm i @rocktseat/eslint-config -D
+
+.eslintrc.json
+
+npx eslint src --ext .ts,.tsx --fix
+
+React Hook Form
+
